@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ajhadi/static/css/main.d1b05096.chunk.css",
+    "main.js": "/ajhadi/static/js/main.8c7d942e.chunk.js",
+    "main.js.map": "/ajhadi/static/js/main.8c7d942e.chunk.js.map",
+    "runtime-main.js": "/ajhadi/static/js/runtime-main.cf4d02de.js",
+    "runtime-main.js.map": "/ajhadi/static/js/runtime-main.cf4d02de.js.map",
+    "static/js/2.9fffd79b.chunk.js": "/ajhadi/static/js/2.9fffd79b.chunk.js",
+    "static/js/2.9fffd79b.chunk.js.map": "/ajhadi/static/js/2.9fffd79b.chunk.js.map",
+    "index.html": "/ajhadi/index.html",
+    "precache-manifest.4fcc59ae06450964d47a01a855a7c808.js": "/ajhadi/precache-manifest.4fcc59ae06450964d47a01a855a7c808.js",
+    "service-worker.js": "/ajhadi/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/ajhadi/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.9fffd79b.chunk.js.LICENSE.txt": "/ajhadi/static/js/2.9fffd79b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ajhadi/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf4d02de.js",
+    "static/js/2.9fffd79b.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.8c7d942e.chunk.js"
+  ]
+}
