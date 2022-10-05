@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Hadi
 - 👀 I’m interested in Cyber Security
-- 📫 hit me up @ contact@ajhadi.space
+- 📫 You can contact me at contact@ajhadi.space
 
 <!---
 ajhadi/ajhadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
